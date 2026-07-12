@@ -1,4 +1,4 @@
-# Excel AI Expense Analyser 🤖
+# Excel AI Expense Analyser 
 
 > Wire AI directly into Excel using VBA — no external tools, no dedicated app, no backend.
 > Just a spreadsheet that thinks.
