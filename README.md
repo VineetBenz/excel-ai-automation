@@ -212,7 +212,7 @@ Everything else stays exactly the same.
 
 ## Read the Full Article
 
-[Link to Medium post — add yours here]
+https://medium.com/@vineetbhandari1919/turned-excel-into-an-ai-brain-no-external-tools-no-apps-just-vba-any-ai-api-97d5cf7cd5f8
 
 ---
 
